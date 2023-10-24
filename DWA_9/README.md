@@ -22,4 +22,3 @@ If you encounter any issues while using the Book Connect website or have any sug
 
 Thank you for using Book Connect, and happy reading!
 
-© Elvin Harris
