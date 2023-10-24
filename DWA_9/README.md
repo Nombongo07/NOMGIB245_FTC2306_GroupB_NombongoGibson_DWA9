@@ -20,5 +20,6 @@ To access the Book Connect website, simply navigate to the provided URL. Upon ar
 ### Support and Feedback
 If you encounter any issues while using the Book Connect website or have any suggestions for improvement, please don't hesitate to contact me.
 
-Thank you for using Book Connect, and happy reading!
+Thank you for using Book Connect
+
 
